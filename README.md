@@ -57,8 +57,8 @@ Design and create solutions to problems using a graphical block-based programmin
 
 Topics
 1. What is coding? 
-Video and Activity 1, The history of languages is the place to start the conversation. 
-Video and Activity 2, The information revolution is based on machines being able to input/process/output data. 
+- Video and Activity 1, The history of languages is the place to start the conversation. 
+- Video and Activity 2, The information revolution is based on machines being able to input/process/output data. 
 2. Devices, RAM and CPU
 Video and Activity 1, What is the file cabinet and motor for 100 Alex?
 3. Flow Diagrams
