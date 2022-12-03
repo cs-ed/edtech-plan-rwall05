@@ -57,11 +57,11 @@ Design and create solutions to problems using a graphical block-based programmin
 
 Topics
 What is coding? 
-Video and Activity 1, The history of languages is the place to start the conversation. 
-Video and Activity 2, The information revolution is based on machines being able to input/process/output data. 
-Devices, RAM and CPU
-Video and Activity 1, What is the file cabinet and motor for 100 Alex?
-Flow Diagrams
+1. Video and Activity 1, The history of languages is the place to start the conversation. 
+2. Video and Activity 2, The information revolution is based on machines being able to input/process/output data. 
+3. Devices, RAM and CPU
+4. Video and Activity 1, What is the file cabinet and motor for 100 Alex?
+5. Flow Diagrams
 Video and Activity 1,  Every great scientist is also a good communicator.  
 Video and Activity 2, The universal tool of coders is a graphical representation of the workflow process.  
 Bits & Bytes
