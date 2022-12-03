@@ -8,7 +8,10 @@ The educational technology plan is being created to address computational thinki
 
 Describe your course including the name, description, and grade level
 
-The course will be called Computational Thinking with Scratch, and is geared towards middle school students ages 10-14, pre-high school.  
+The educational technology plan is being created to address computational thinking skills. The need is that students are excellent at looking up facts, doing research.  However their thinking skills could be better developed.  This course requires both protocols based on facts and the ability for students to think. 
+
+Independent thinking is a skill and collaborative thinking is also a skill.  This course will require students to problem solve independently and collaborate on solutions in order to reach a consensus on the best strategy.  
+ 
 
 ### Situation
 
