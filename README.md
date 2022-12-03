@@ -45,8 +45,10 @@ Touchscreen
 Wi-Fi
 Bluetooth
 720 p webcam
-4 G Ram
+4 G RAM
 128G eMCP4x
+Cloud storage of 500 M
+
 
 ### Application
 
