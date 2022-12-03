@@ -60,52 +60,51 @@ Topics
 - Video and Activity 1, The history of languages is the place to start the conversation. 
 - Video and Activity 2, The information revolution is based on machines being able to input/process/output data. 
 2. Devices, RAM and CPU
-Video and Activity 1, What is the file cabinet and motor for 100 Alex?
+- Video and Activity 1, What is the file cabinet and motor for 100 Alex?
 3. Flow Diagrams
-Video and Activity 1,  Every great scientist is also a good communicator.  
-Video and Activity 2, The universal tool of coders is a graphical representation of the workflow process.  
+- Video and Activity 1,  Every great scientist is also a good communicator.  
+- Video and Activity 2, The universal tool of coders is a graphical representation of the workflow process.  
 4. Bits & Bytes
-Video and Activity 1, The Power of Eight
+- Video and Activity 1, The Power of Eight
 5. Binary Numbers
-Video and Activity 1, Tell me more with Ones and Zeros (representing binary)
-Video and Activity 2, Adding binary numbers
-Video and Activity 3, Subtracting binary numbers
+- Video and Activity 1, Tell me more with Ones and Zeros (representing binary)
+- Video and Activity 2, Adding binary numbers
+- Video and Activity 3, Subtracting binary numbers
 6. What are coordinates?
-Video and Activity, Good news, the same as the x,  y, and z axis conversations in Algebra.
+- Video and Activity, Good news, the same as the x,  y, and z axis conversations in Algebra.
 7. Constructs
-Video and Activity 1, What is sequence?
-Video and Activity 2, What is selection?
-Video and Activity 3, What is iteration? 
+- Video and Activity 1, What is sequence?
+- Video and Activity 2, What is selection?
+- Video and Activity 3, What is iteration? 
 8. Sorting
-Video and Activity 1, If every story has a beginning, middle and an end…
-Video and Activity 2, Sort first names of students in the class using bubble sort. 
-Video and Activity 3, Sort first names of students in the class 
+- Video and Activity 1, If every story has a beginning, middle and an end…
+- Video and Activity 2, Sort first names of students in the class using bubble sort. 
+- Video and Activity 3, Sort first names of students in the class 
 9. Functions
-Video and Activity 1, short or long, functions are chunks of code
+- Video and Activity 1, short or long, functions are chunks of code
 10. Logic game Bagels, Pico, Fermi
-Video and Activities, recurring
+- Video and Activities, recurring
 11. Logic game, Wordle
-Video and Activities, recurring 
+- Video and Activities, recurring 
 12. Scratch skills, self paced demonstrations
-Video 1, creating background
-Video 2, creating a sprite
-Video 3, creating controls to move a sprite
-Video 4, using coordinates
-Video 4, if on edge bounce
-Video 5, having the sprite interact with conditionals
-Video 6, keeping a game score
-Video 7, animation with voice over
-Video 8, remix
+- Video 1, creating background
+- Video 2, creating a sprite
+- Video 3, creating controls to move a sprite
+- Video 4, using coordinates
+- Video 4, if on edge bounce
+- Video 5, having the sprite interact with conditionals
+- Video 6, keeping a game score
+- Video 7, animation with voice over
+- Video 8, remix
 13. Design Challenges (student projects with collaborative feedback from peers and teacher)
-Design Challenge 1, Move the sprite and face direction 
-Design Challenge 2, Draw a letter using sprite as a writing instrument
-Design Challenge 3, Animate your name
-Design Challenge 4, Bounces off the 4 display boundaries 
-Design Challenge 5, Bird Game, two objects interacting
-Design Challenge 6, Catch game, two objects interacting
-Design Challenge 7, Working with Bits
-Design Challenge 8, Frogger
-
+- Design Challenge 1, Move the sprite and face direction 
+- Design Challenge 2, Draw a letter using sprite as a writing instrument
+- Design Challenge 3, Animate your name
+- Design Challenge 4, Bounces off the 4 display boundaries 
+- Design Challenge 5, Bird Game, two objects interacting
+- Design Challenge 6, Catch game, two objects interacting
+- Design Challenge 7, Working with Bits
+- Design Challenge 8, Frogger
 
 ### Impacts
 
