@@ -40,14 +40,14 @@ Chrome Browser, will allow access to Google Slides, Google Classroom, Scratch, a
 ### Hardware Specifications
 
 Equal to or better
-10 Gen Intel Core i3-1011OU Processor at 2.1 GHz
-Touchscreen
-Wi-Fi
-Bluetooth
-720 p webcam
-4 G RAM
-128G eMCP4x
-Cloud storage of 500 M
+- 10 Gen Intel Core i3-1011OU Processor at 2.1 GHz
+- Touchscreen
+- Wi-Fi
+- Bluetooth
+- 720 p webcam
+- 4 G RAM
+- 128G eMCP4x
+- cloud storage of 500 M
 
 
 ### Application
