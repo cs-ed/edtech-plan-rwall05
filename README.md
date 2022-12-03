@@ -56,37 +56,37 @@ Describe an algorithm in terms of its process and rules
 Design and create solutions to problems using a graphical block-based programming language.
 
 Topics
-What is coding? 
-1. Video and Activity 1, The history of languages is the place to start the conversation. 
-2. Video and Activity 2, The information revolution is based on machines being able to input/process/output data. 
-3. Devices, RAM and CPU
-4. Video and Activity 1, What is the file cabinet and motor for 100 Alex?
-5. Flow Diagrams
+1. What is coding? 
+Video and Activity 1, The history of languages is the place to start the conversation. 
+Video and Activity 2, The information revolution is based on machines being able to input/process/output data. 
+2. Devices, RAM and CPU
+Video and Activity 1, What is the file cabinet and motor for 100 Alex?
+3. Flow Diagrams
 Video and Activity 1,  Every great scientist is also a good communicator.  
 Video and Activity 2, The universal tool of coders is a graphical representation of the workflow process.  
-Bits & Bytes
+4. Bits & Bytes
 Video and Activity 1, The Power of Eight
-Binary Numbers
+5. Binary Numbers
 Video and Activity 1, Tell me more with Ones and Zeros (representing binary)
 Video and Activity 2, Adding binary numbers
 Video and Activity 3, Subtracting binary numbers
-What are coordinates?
+6. What are coordinates?
 Video and Activity, Good news, the same as the x,  y, and z axis conversations in Algebra.
-Constructs
+7. Constructs
 Video and Activity 1, What is sequence?
 Video and Activity 2, What is selection?
 Video and Activity 3, What is iteration? 
-Sorting
+8. Sorting
 Video and Activity 1, If every story has a beginning, middle and an end…
 Video and Activity 2, Sort first names of students in the class using bubble sort. 
 Video and Activity 3, Sort first names of students in the class 
-Functions
+9. Functions
 Video and Activity 1, short or long, functions are chunks of code
-Logic game Bagels, Pico, Fermi
+10. Logic game Bagels, Pico, Fermi
 Video and Activities, recurring
-Logic game, Wordle
+11. Logic game, Wordle
 Video and Activities, recurring 
-Scratch skills, self paced demonstrations
+12. Scratch skills, self paced demonstrations
 Video 1, creating background
 Video 2, creating a sprite
 Video 3, creating controls to move a sprite
@@ -96,7 +96,7 @@ Video 5, having the sprite interact with conditionals
 Video 6, keeping a game score
 Video 7, animation with voice over
 Video 8, remix
-Design Challenges (student projects with collaborative feedback from peers and teacher)
+13. Design Challenges (student projects with collaborative feedback from peers and teacher)
 Design Challenge 1, Move the sprite and face direction 
 Design Challenge 2, Draw a letter using sprite as a writing instrument
 Design Challenge 3, Animate your name
